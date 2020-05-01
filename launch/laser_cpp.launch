@@ -1,0 +1,5 @@
+<launch>
+
+	<node pkg="laserscan_pointcloud_cpp" type="laserscan_pointcloud_cpp_node" name="my_scan_to_cloud"  output="screen"  >
+	</node>
+</launch>
