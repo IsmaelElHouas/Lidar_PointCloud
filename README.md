@@ -1,5 +1,6 @@
 # Lidar_PointCloud
-Create Point Cloud from 2D Lidar
+ROS package which uses scan data from RPLidar to create a Point Cloud. 
+The input data has been filtered, segmented and clustered in order to isolate target data. 
 
 # Reference
 
